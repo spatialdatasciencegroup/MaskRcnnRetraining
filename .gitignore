@@ -1,0 +1,14 @@
+# log folder
+logs/*
+!logs/README.md
+
+# image folders
+road-block-images/
+
+# any saved models
+retrained_models/*
+!retrained_models/README.md
+mask_rcnn_coco.h5
+
+# Mask_RCNN repo
+Mask_RCNN/
